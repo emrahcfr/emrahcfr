@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front End
+- 🔭 I’m currently working on FrontEnd
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Project
 - 💬 Ask me about anything
