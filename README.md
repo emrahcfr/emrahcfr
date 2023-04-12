@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Emrah
-Hi there I'm Emrah CAFRİ. I'm currently in the process of learning HTML and CSS, 
+### Hi there 👋 I'm Emrah CAFRİ
+I'm currently in the process of learning HTML, CSS and React 
 but I want to strive to learn more and more 
 in this field in the future.
-Here is the place where I share some project that worked on by mself and with other developers in this process
+Here is the place where I share some project that I worked on by mself and with other developers in this process
 
 
 - 🔭 I’m currently working on FrontEnd
