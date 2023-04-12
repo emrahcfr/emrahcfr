@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Emrah
-**emrahcfr/emrahcfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi there I'm Emrah CAFRİ. I'm currently in the process of learning HTML and CSS, 
 but I want to strive to learn more and more 
 in this field in the future.
