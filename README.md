@@ -10,4 +10,4 @@ Here is the place where I share some project that I worked on by mself and with 
 - 👯 I’m looking to collaborate on Project
 - 💬 Ask me about anything
 - 📫 How to reach me: emrahcfr@gmail.com
-- ⚡ Fun fact: HTML, CSS, Bootstrap
+- ⚡ Fun fact: HTML, CSS, Bootstrap, JavaScript, React, Redux
